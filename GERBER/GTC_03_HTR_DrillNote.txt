@@ -1,0 +1,6 @@
+Special Notes for GTC_03_HTR Fabrication
+Plated Thru Holes designated in drill file (.drl) for tool 5 (T5)
+0.067" is final hole ID target (after plating)
+Mill-Max 0291 receptacle will be press fit into these holes
+receptacal shape is haxagon with 0.071" point to point
+Drill selected (prior to plating) must be >= 0.072"

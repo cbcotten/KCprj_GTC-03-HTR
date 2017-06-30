@@ -1881,7 +1881,7 @@
   (gr_text "General Temperature Controller\nDC Power Output Module, 2 channel" (at 144.78 92.468) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "GTC_03_HTR_REV1\n3oz / 10A" (at 114.046 108.47 90) (layer B.Cu)
+  (gr_text "GTC_03_HTR_REV1\n1oz / 4.5A" (at 114.046 108.47 90) (layer B.Cu)
     (effects (font (size 1.2192 1.2192) (thickness 0.3048)) (justify mirror))
   )
   (gr_text PE (at 121.92 126.25) (layer F.SilkS)
